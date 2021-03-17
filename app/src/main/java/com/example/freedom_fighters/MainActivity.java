@@ -7,7 +7,7 @@ import android.os.Bundle;
 
 import java.util.Timer;
 import java.util.TimerTask;
-
+//main activity
 public class MainActivity extends AppCompatActivity {
 
     @Override
